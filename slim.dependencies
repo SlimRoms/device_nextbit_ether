@@ -1,6 +1,6 @@
 [
   {
-    "repository": "kernel_nextbit_ether,
+    "repository": "kernel_nextbit_ether",
     "target_path": "kernel/nextbit/ether"
   }
 ]
