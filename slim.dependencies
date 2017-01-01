@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_kernel_nextbit_msm8992",
+    "repository": "SlimRoms/kernel_nextbit_ether",
     "target_path": "kernel/nextbit/msm8992"
   }
 ]
